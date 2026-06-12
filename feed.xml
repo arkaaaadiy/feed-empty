@@ -4,5 +4,13 @@
     <title>Empty Feed</title>
     <link>https://example.com</link>
     <description>Feed with zero items</description>
+
+    <item>
+      <title>Фейковый пост</title>
+      <link>https://example.com/fake-post</link>
+      <description>Это тестовая запись для проверки RSS-ленты.</description>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0500</pubDate>
+      <guid>https://example.com/fake-post</guid>
+    </item>
   </channel>
 </rss>
