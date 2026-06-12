@@ -3,8 +3,5 @@
 <title>Empty Feed</title>
 <link>https://example.com</link>
 <description>Feed with zero items</description>
-<item>
-<title>Фейковый пост</title>
-
 </channel>
 </rss>
